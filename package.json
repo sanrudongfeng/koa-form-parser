@@ -1,0 +1,7 @@
+{
+  "name": "koa-form-parser",
+  "version": "0.0.1",
+  "devDependencies": {
+    "koa": "^2.0.0"
+  }
+}
